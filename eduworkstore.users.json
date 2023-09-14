@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "62523cc7323d26f7f7755772"
+  },
+  "full_name": "bagus addin prabowo",
+  "email": "bagus.addin313@gmail.com",
+  "password": "$2b$10$VXWNIzKpB/L91iPdSYOLDeP16gijGFHAxUoiSiMyhRzM9KyDJRZ6i",
+  "role": "user",
+  "token": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2NDk1NzgzMTV9.-0Pqjk3zHVtdJ83ZBICoDbKvfurqf9I225B0PhLP4VY",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2NDk1Nzg0MjR9.dN2vcKttFYOiLwJV4zbYPyiFY2e0PqHEVeXWA5Jgzhg",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2NDk1OTU0NTN9.xzBfW09ocTQATh1ahSoTQ2t3_JRx9abhwCzVmJhtEdA",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2NjY4NzIyNjF9.DyzkCYnY6xKye03JWOdg7numCx3LdrDWYb2-VQXqTvs",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2Nzc1NDkyNzR9.7rnjru99G2luuhamrO96BcJgX9Zbe7c4QcUgeLuRN4E",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2Nzc1NDk1NjZ9.X4ttdsGYkbhA0jOiJLCWrHEpkDfoflHTlj6rKnu5Nv0",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2Nzc1NDk3MTV9.9-ymC-LCX4C2cIq60irv7E2I6qknYAtkoeR6Y-K-EZE",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjUyM2NjNzMyM2QyNmY3Zjc3NTU3NzIiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjMxM0BnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoxLCJpYXQiOjE2OTExMTU4MjF9.VSa9tDY-KsQKPI66LbbuOl8VZsfWoJVxzwIn_sPRm9Y"
+  ],
+  "createdAt": {
+    "$date": "2022-04-10T02:11:19.864Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T02:23:41.089Z"
+  },
+  "customer_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62957c099aec6601904f6059"
+  },
+  "full_name": "bagus addin prabowo",
+  "email": "bagus.addin354@gmail.com",
+  "password": "$2b$10$MsZoDsCLVjQdr/u7t3ddPuKkzqINcsn8izNgqsSIB10RsgvPfaXj2",
+  "role": "user",
+  "token": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjk1N2MwOTlhZWM2NjAxOTA0ZjYwNTkiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjM1NEBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoyLCJpYXQiOjE2NTM5NjQxODR9.1lbdIS2TsVGJ-fkiwn4CMtp7zzz-IuIl2JVoVInwcTM",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjk1N2MwOTlhZWM2NjAxOTA0ZjYwNTkiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjM1NEBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoyLCJpYXQiOjE2NTM5NjQzMDJ9.Q6zkTNEEx_8aO0NuXMlzSgNk8T3pa4dAHOn8WuFervc",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjk1N2MwOTlhZWM2NjAxOTA0ZjYwNTkiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjM1NEBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoyLCJpYXQiOjE2NTU2OTAxNzZ9.YMQVsi-ghqontvd2vkjCU8Ic-rt0UOrOjXq-kACi7mU",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjk1N2MwOTlhZWM2NjAxOTA0ZjYwNTkiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjM1NEBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoyLCJpYXQiOjE2OTA5NDg1NDJ9.hUFt712jghhs1RGb7HtrTNwoamfxd6GebVnMOMGBizM",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjk1N2MwOTlhZWM2NjAxOTA0ZjYwNTkiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjM1NEBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoyLCJpYXQiOjE2OTMwMTc0NDZ9.QzLOp87Dwps11TZ9AMYhs9_pTAqcF65OvwkI2H--UtM",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjk1N2MwOTlhZWM2NjAxOTA0ZjYwNTkiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjM1NEBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoyLCJpYXQiOjE2OTMwMTgyMTZ9.ktLJEX6Q4hwI4lrx0Pn8hHxM0FtODep5PAwb98hlbks",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjk1N2MwOTlhZWM2NjAxOTA0ZjYwNTkiLCJmdWxsX25hbWUiOiJiYWd1cyBhZGRpbiBwcmFib3dvIiwiZW1haWwiOiJiYWd1cy5hZGRpbjM1NEBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImN1c3RvbWVyX2lkIjoyLCJpYXQiOjE2OTMwMTg0ODd9.9VfOoDpvE9CIwW3vxShC3gkaWHHEus4ITNOr_FFA9zA"
+  ],
+  "createdAt": {
+    "$date": "2022-05-31T02:23:05.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T02:54:47.082Z"
+  },
+  "customer_id": 2,
+  "__v": 0
+}]

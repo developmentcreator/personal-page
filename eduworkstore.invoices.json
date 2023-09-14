@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "64cc61ad0460c905c0ac8a95"
+  },
+  "sub_total": 19449900,
+  "delivery_fee": 20000,
+  "delivery_address": {
+    "provinsi": "JAWA TIMUR",
+    "kabupaten": "KABUPATEN NGANJUK",
+    "kecamatan": "KERTOSONO",
+    "kelurahan": "KALIANYAR",
+    "detail": "jabon drenges"
+  },
+  "total": 19469900,
+  "payment_status": "waiting_payment",
+  "user": {
+    "$oid": "62523cc7323d26f7f7755772"
+  },
+  "order": {
+    "$oid": "64cc61ad0460c905c0ac8a87"
+  },
+  "createdAt": {
+    "$date": "2023-08-04T02:25:49.180Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T02:25:49.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cc61e60460c905c0ac8aa4"
+  },
+  "sub_total": 0,
+  "delivery_fee": 20000,
+  "delivery_address": {
+    "provinsi": "JAWA TIMUR",
+    "kabupaten": "KABUPATEN NGANJUK",
+    "kecamatan": "KERTOSONO",
+    "kelurahan": "KALIANYAR",
+    "detail": "jabon drenges"
+  },
+  "total": 20000,
+  "payment_status": "waiting_payment",
+  "user": {
+    "$oid": "62523cc7323d26f7f7755772"
+  },
+  "order": {
+    "$oid": "64cc61e60460c905c0ac8a9e"
+  },
+  "createdAt": {
+    "$date": "2023-08-04T02:26:46.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T02:26:46.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e965bdb708a4959812a85b"
+  },
+  "sub_total": 35599800,
+  "delivery_fee": 20000,
+  "delivery_address": {
+    "provinsi": "JAWA TIMUR",
+    "kabupaten": "KABUPATEN NGANJUK",
+    "kecamatan": "KERTOSONO",
+    "kelurahan": "KALIANYAR",
+    "detail": "jabon"
+  },
+  "total": 35619800,
+  "payment_status": "waiting_payment",
+  "user": {
+    "$oid": "62957c099aec6601904f6059"
+  },
+  "order": {
+    "$oid": "64e965bdb708a4959812a84d"
+  },
+  "createdAt": {
+    "$date": "2023-08-26T02:38:53.137Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T02:38:53.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e96bd16c158b7736d19d99"
+  },
+  "sub_total": 25000000,
+  "delivery_fee": 20000,
+  "delivery_address": {
+    "provinsi": "JAWA TIMUR",
+    "kabupaten": "KABUPATEN NGANJUK",
+    "kecamatan": "KERTOSONO",
+    "kelurahan": "KALIANYAR",
+    "detail": "jabon"
+  },
+  "total": 25020000,
+  "payment_status": "waiting_payment",
+  "user": {
+    "$oid": "62957c099aec6601904f6059"
+  },
+  "order": {
+    "$oid": "64e96bd16c158b7736d19d90"
+  },
+  "createdAt": {
+    "$date": "2023-08-26T03:04:49.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T03:04:49.102Z"
+  },
+  "__v": 0
+}]

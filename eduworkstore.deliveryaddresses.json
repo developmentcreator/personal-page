@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "64cc61710460c905c0ac8a59"
+  },
+  "nama": "bagus",
+  "kelurahan": "KALIANYAR",
+  "kecamatan": "KERTOSONO",
+  "kabupaten": "KABUPATEN NGANJUK",
+  "provinsi": "JAWA TIMUR",
+  "detail": "jabon drenges",
+  "user": {
+    "$oid": "62523cc7323d26f7f7755772"
+  },
+  "createdAt": {
+    "$date": "2023-08-04T02:24:49.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T02:24:49.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e965a3b708a4959812a83b"
+  },
+  "nama": "bagus",
+  "kelurahan": "KALIANYAR",
+  "kecamatan": "KERTOSONO",
+  "kabupaten": "KABUPATEN NGANJUK",
+  "provinsi": "JAWA TIMUR",
+  "detail": "jabon",
+  "user": {
+    "$oid": "62957c099aec6601904f6059"
+  },
+  "createdAt": {
+    "$date": "2023-08-26T02:38:27.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T02:38:27.893Z"
+  },
+  "__v": 0
+}]
