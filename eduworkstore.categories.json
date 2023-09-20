@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6261fe20978fadd24d80c8a7"
+  },
+  "name": "Dekstop",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "name": "Laptop",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "name": "Aksesoris",
+  "__v": 0
+}]

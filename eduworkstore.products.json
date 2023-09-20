@@ -1,0 +1,681 @@
+[{
+  "_id": {
+    "$oid": "62615b60d6c50db55ee54ac7"
+  },
+  "name": "Asus ROG G15CK-I7659T",
+  "description": "pc gaming",
+  "price": 17799900,
+  "image_url": "dcb954fd698224b68660dff89b2ea7bd.jpg",
+  "createdAt": {
+    "$date": "2022-04-21T13:25:52.378Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T03:27:18.143Z"
+  },
+  "__v": 0,
+  "tags": [
+    {
+      "$oid": "62620b459400ead22f8b2193"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ],
+  "category": {
+    "$oid": "6261fe20978fadd24d80c8a7"
+  }
+},
+{
+  "_id": {
+    "$oid": "62615dcbd6c50db55ee54adc"
+  },
+  "name": "ASUS ROG PC DESKTOP G10CE-701153600T",
+  "description": "pc gaming",
+  "price": 25000000,
+  "image_url": "090e21988f620a059dc1a0959533a933.jpg",
+  "createdAt": {
+    "$date": "2022-04-21T13:36:11.920Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T03:42:48.547Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261fe20978fadd24d80c8a7"
+  },
+  "tags": [
+    {
+      "$oid": "62620b459400ead22f8b2193"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62615e41d6c50db55ee54ae2"
+  },
+  "name": "ASUS ROG STRIX GL10CS-I7661T",
+  "description": "pc gaming",
+  "price": 17500000,
+  "image_url": "0fd01915b218e3095bfd3a46219b571e.jpg",
+  "createdAt": {
+    "$date": "2022-04-21T13:38:09.902Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T03:45:26.536Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261fe20978fadd24d80c8a7"
+  },
+  "tags": [
+    {
+      "$oid": "62620b459400ead22f8b2193"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62615f61d6c50db55ee54b00"
+  },
+  "name": "ROG Centurion",
+  "description": "headphone gaming",
+  "price": 3000000,
+  "image_url": "27b8c1034fe15f279c950efd40101797.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T13:42:57.672Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T03:50:23.933Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bc39400ead22f8b219b"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62615fe4d6c50db55ee54b16"
+  },
+  "name": "ROG Clymore",
+  "description": "keyboard gaming",
+  "price": 2990000,
+  "image_url": "fdf5e0506783eb5dd69afc287d88a9f9.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T13:45:08.769Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T03:56:37.147Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bae9400ead22f8b2199"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62616047d6c50db55ee54b1c"
+  },
+  "name": "ROG Delta",
+  "description": "headphone gaming",
+  "price": 3150000,
+  "image_url": "00b648ebacfacdf965275df5b8549262.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T13:46:47.778Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T03:58:03.590Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bc39400ead22f8b219b"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626160a1d6c50db55ee54b22"
+  },
+  "name": "ROG Gladius ",
+  "description": "mouse gaming",
+  "price": 1650000,
+  "image_url": "a2d4052d64c462b9e665ace33449c549.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T13:48:17.474Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:01:25.432Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620b9a9400ead22f8b2197"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626160ffd6c50db55ee54b28"
+  },
+  "name": "ROG Gundam edition",
+  "description": "headphone gaming",
+  "price": 3668000,
+  "image_url": "63d6736afa0a1e2f9c74018b37d04ada.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T13:49:51.111Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:06:41.407Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620b059400ead22f8b218f"
+    },
+    {
+      "$oid": "62620bc39400ead22f8b219b"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62616142d6c50db55ee54b2e"
+  },
+  "name": "ROG Pugio ",
+  "description": "mouse gaming",
+  "price": 1200000,
+  "image_url": "90608b4ce53bf939e5660c1d0dda18bf.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T13:50:58.777Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:20:17.516Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620b9a9400ead22f8b2197"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62616185d6c50db55ee54b34"
+  },
+  "name": "ROG Spatha",
+  "description": "mouse gaming",
+  "price": 2299000,
+  "image_url": "2d3899c72f8d35bc4b8875e68855135b.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T13:52:05.313Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:21:36.690Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620b9a9400ead22f8b2197"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6261636310d64a0fe80d2ee7"
+  },
+  "name": "ROG Strix Aventage edition",
+  "description": "laptop gaming",
+  "price": 33999000,
+  "image_url": "596bb7be97d7632a6492339aab15ffa7.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:00:03.488Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:23:41.074Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "tags": [
+    {
+      "$oid": "62620b059400ead22f8b218f"
+    },
+    {
+      "$oid": "62620b699400ead22f8b2195"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626163a610d64a0fe80d2eed"
+  },
+  "name": "ROG Strix  ",
+  "description": "laptop gaming",
+  "price": 21900000,
+  "image_url": "c5710a8d295e66cf1347e5991d8afbe6.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:01:10.643Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:25:43.102Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "tags": [
+    {
+      "$oid": "62620b699400ead22f8b2195"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6261645a10d64a0fe80d2f03"
+  },
+  "name": "ROG Strix  Scar",
+  "description": "laptop gaming",
+  "price": 60999000,
+  "image_url": "ba7ee7590aaaec9a0ea5657c4092cac9.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:04:10.252Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:26:48.580Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "tags": [
+    {
+      "$oid": "62620b699400ead22f8b2195"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626164b510d64a0fe80d2f09"
+  },
+  "name": "STRIX Flare",
+  "description": "keyboard gaming",
+  "price": 2450000,
+  "image_url": "beaddf54808b328ae65a82775fdf4d63.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:05:41.616Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:29:08.563Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bae9400ead22f8b2199"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626164f110d64a0fe80d2f0f"
+  },
+  "name": "STRIX Impact",
+  "description": "mouse gaming",
+  "price": 629000,
+  "image_url": "16daceb2027b8d1f0b240e6b996e6839.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:06:41.901Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:30:40.667Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620b9a9400ead22f8b2197"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6261653810d64a0fe80d2f15"
+  },
+  "name": "STRIX Scope",
+  "description": "keyboard gaming",
+  "price": 2100000,
+  "image_url": "f71a44fceca6b636763582e9695da697.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:07:52.117Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:31:57.979Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bae9400ead22f8b2199"
+    },
+    {
+      "$oid": "62620be09400ead22f8b219f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6261660d10d64a0fe80d2f1b"
+  },
+  "name": "ASUS TUF A15",
+  "description": "laptop gaming",
+  "price": 14500000,
+  "image_url": "88d0bdcdc10bb443669d1f57970ec51f.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:11:25.563Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:37:28.019Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "tags": [
+    {
+      "$oid": "62620b699400ead22f8b2195"
+    },
+    {
+      "$oid": "62620bd79400ead22f8b219d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6261672710d64a0fe80d2f21"
+  },
+  "name": "ASUS TUF DASH F15",
+  "description": "laptop gaming",
+  "price": 18463000,
+  "image_url": "762a5be102e735b5c3a32145a3ecc9d6.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:16:07.204Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:38:36.175Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "tags": [
+    {
+      "$oid": "62620b699400ead22f8b2195"
+    },
+    {
+      "$oid": "62620bd79400ead22f8b219d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626168c410d64a0fe80d2f27"
+  },
+  "name": "TUF Gaming K1",
+  "description": "keyboard gaming",
+  "price": 699000,
+  "image_url": "7b255b8f3725d7e2b28c09650ab75f42.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:23:00.727Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:40:49.947Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bae9400ead22f8b2199"
+    },
+    {
+      "$oid": "62620bd79400ead22f8b219d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62616937114991054d983074"
+  },
+  "name": "TUF Gaming K3",
+  "description": "keyboard gaming",
+  "price": 899000,
+  "image_url": "a2eb20e9e3d7b1a7084de5bab62cc90a.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:24:55.185Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:41:38.615Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bae9400ead22f8b2199"
+    },
+    {
+      "$oid": "62620bd79400ead22f8b219d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62616962114991054d98307a"
+  },
+  "name": "TUF Gaming K5",
+  "description": "keyboard gaming",
+  "price": 1200000,
+  "image_url": "f95e87ffc922b5deccc196c5655aa018.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:25:38.364Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:42:35.226Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620bae9400ead22f8b2199"
+    },
+    {
+      "$oid": "62620bd79400ead22f8b219d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6261698b114991054d983080"
+  },
+  "name": "TUF Gaming M3",
+  "description": "mouse gaming",
+  "price": 450000,
+  "image_url": "350b60de7e469588da9f6ffd9d46bb21.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:26:19.735Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:43:52.228Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620b9a9400ead22f8b2197"
+    },
+    {
+      "$oid": "62620bd79400ead22f8b219d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626169af114991054d983086"
+  },
+  "name": "TUF Gaming M5",
+  "description": "mouse gaming",
+  "price": 550000,
+  "image_url": "15ff5165f2907cbb798d49012c0d9130.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:26:55.505Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:44:55.093Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff32a5b942bfb3008612"
+  },
+  "tags": [
+    {
+      "$oid": "62620b9a9400ead22f8b2197"
+    },
+    {
+      "$oid": "62620bd79400ead22f8b219d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626169f7114991054d983088"
+  },
+  "name": "ASUS Zepyrus Duo",
+  "description": "laptop gaming",
+  "price": 35099000,
+  "image_url": "a744b10322f9d41ed36b75abdd3aed92.jpeg",
+  "createdAt": {
+    "$date": "2022-04-21T14:28:07.995Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:46:41.718Z"
+  },
+  "__v": 0,
+  "category": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "tags": [
+    {
+      "$oid": "62620abe9400ead22f8b218c"
+    },
+    {
+      "$oid": "62620b699400ead22f8b2195"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "626217e9e15ad175c2a77d92"
+  },
+  "name": "ASUS Zepyrus ",
+  "description": "laptop gaming",
+  "price": 17500000,
+  "image_url": "642825a70766a046912853766a11dfc2.jpeg",
+  "category": {
+    "$oid": "6261ff25a5b942bfb3008610"
+  },
+  "createdAt": {
+    "$date": "2022-04-22T02:50:17.591Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-23T04:47:48.558Z"
+  },
+  "__v": 0,
+  "tags": [
+    {
+      "$oid": "62620abe9400ead22f8b218c"
+    },
+    {
+      "$oid": "62620b699400ead22f8b2195"
+    }
+  ]
+}]
